@@ -14,3 +14,6 @@ print(a)
 print(b)
 print(a+b)
 print(a,b)
+
+while True:
+    print("ececfec")
