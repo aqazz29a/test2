@@ -10,3 +10,4 @@
 a=int(input("введите а"))
 b=int(input())
 print(a*b)
+print(a)
