@@ -18,3 +18,5 @@ print("dfdf")
 
 while True:
     print("eceercfec")
+
+print(a-b)
