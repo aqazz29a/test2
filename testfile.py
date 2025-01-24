@@ -14,5 +14,9 @@ print(a)
 print(b)
 print(a+b)
 print(a,b)
+print("dfdf")
+
+while True:
+    print("eceercfec")
 
 print(a-b)
